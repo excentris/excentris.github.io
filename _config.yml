@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Eduardo Rubio"
   # tagline will appear under the title (optional)
-  tagline: "Software engineer / Leisure artist / Dreamer"
+  tagline: "Software engineer / Leisure artist"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
