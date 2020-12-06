@@ -39,6 +39,7 @@ a:hover {
 .main-list-item {
 	font-weight: bold;
 	font-size: 1.2em;
+    height: 27px;
 	margin: 0.8em 0;
 }
 
@@ -52,6 +53,11 @@ since it must be aligned with the content */
 .main-list-item-icon {
 	width: 36px;
 	color: $text-color;
+}
+
+.signature-icon {
+	width: 24px;
+	height: 24px;
 }
 
 /*** logo ***/
